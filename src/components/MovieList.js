@@ -1,4 +1,3 @@
-// MovieList.js
 import React from "react";
 import "../styles/movielist.scss";
 const MovieList = ({ movies, selectedGenre }) => {
